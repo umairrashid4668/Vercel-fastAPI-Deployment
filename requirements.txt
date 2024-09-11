@@ -1,0 +1,3 @@
+transformers
+nest_asyncio
+fastapi==0.95.0
